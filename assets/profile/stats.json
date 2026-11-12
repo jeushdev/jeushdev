@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-11T08:11:57+08:00",
-  "contributions_last_year": 1308,
+  "updated_at": "2026-11-12T09:38:07+08:00",
+  "contributions_last_year": 1321,
   "public_repositories": 12,
-  "followers": 12,
+  "followers": 14,
   "stars_on_public_repositories": 1,
   "source_urls": [
     "https://api.github.com/users/jeushdev",
@@ -1481,6 +1481,10 @@
     },
     {
       "date": "2026-11-11",
+      "level": 1
+    },
+    {
+      "date": "2026-11-12",
       "level": 0
     }
   ]
