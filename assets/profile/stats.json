@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T07:16:23+08:00",
-  "contributions_last_year": 1335,
+  "updated_at": "2026-11-16T07:28:39+08:00",
+  "contributions_last_year": 1347,
   "public_repositories": 12,
   "followers": 13,
   "stars_on_public_repositories": 1,
@@ -11,34 +11,6 @@
   ],
   "scope": "Visible calendar follows account public settings; repository and star counts are public only.",
   "days": [
-    {
-      "date": "2025-11-09",
-      "level": 0
-    },
-    {
-      "date": "2025-11-10",
-      "level": 0
-    },
-    {
-      "date": "2025-11-11",
-      "level": 0
-    },
-    {
-      "date": "2025-11-12",
-      "level": 0
-    },
-    {
-      "date": "2025-11-13",
-      "level": 0
-    },
-    {
-      "date": "2025-11-14",
-      "level": 0
-    },
-    {
-      "date": "2025-11-15",
-      "level": 0
-    },
     {
       "date": "2025-11-16",
       "level": 0
@@ -1493,6 +1465,10 @@
     },
     {
       "date": "2026-11-14",
+      "level": 1
+    },
+    {
+      "date": "2026-11-15",
       "level": 1
     }
   ]
